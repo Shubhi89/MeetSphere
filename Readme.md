@@ -119,6 +119,3 @@ Licensed under the [MIT License](LICENSE)
 ## ⭐ Show Your Support
 
 If you found this helpful, give it a ⭐ on GitHub and share it with others!
-
-```
-
