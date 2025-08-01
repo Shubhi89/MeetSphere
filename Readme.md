@@ -80,9 +80,9 @@ node server.js
 ## 📷 Screenshots
 
 
-| Login Page                   | Video Call                     | Chat + Screen Share         |
-| ---------------------------- | ------------------------------ | --------------------------- |
-| ![]() | ![]() | ![]() |
+| Login Page                   | Home Page                      | Chat + Video Call           |  History       |  Landing Page     |
+| ---------------------------- | ------------------------------ | --------------------------- | -------------- | ----------------- |
+| ![](screenshots/signIn.png) | ![](screenshots/home.png) | ![](screenshots/meeting.png) | ![](screenshots/history.png) | ![](screenshots/landingPage.png)
 
 ---
 
@@ -119,15 +119,3 @@ Licensed under the [MIT License](LICENSE)
 ## ⭐ Show Your Support
 
 If you found this helpful, give it a ⭐ on GitHub and share it with others!
-
-```
-
----
-
-### ✅ Instructions:
-- Save this content as `README.md` in your root directory (`/MeetSphere`).
-- If you want help creating the screenshots, just ask.
-- Want a GitHub profile README or banner too? I can help you with that next.
-
-Let me know if you want a Hindi or professional post for LinkedIn announcing your project too!
-```

@@ -31,8 +31,8 @@ function App() {
             <Route path='/userPage' element={<>
               <UserPage /></>} />
             <Route path='/url' element={<VideoMeet />} />
-            <Route path='/home' element={<><HomePage /></>} />
-            <Route path='/history' element={<><HistoryPage /></>} />
+            <Route path='/home' element={<HomePage />} />
+            <Route path='/history' element={<HistoryPage />} />
           </Routes>
         </AuthProvider>
       </Router>
