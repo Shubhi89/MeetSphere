@@ -105,7 +105,7 @@ const SignIn = () => {
           )}
         </form>
         <p className="mt-3 text-center">
-          Dont have an account? <a href="/signup">Sign Up</a>
+          Dont have an account? <Link to ="/signup">Sign Up</Link>
         </p>
       </div>
     </div>

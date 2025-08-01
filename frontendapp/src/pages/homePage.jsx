@@ -30,9 +30,9 @@ function HomePage() {
         }}
       >
         <div className="container-fluid">
-          <a className="navbar-brand fw-bold text-primary fs-2" href="/">
+          <Link className="navbar-brand fw-bold text-primary fs-2" to ="/">
             Meetsphere
-          </a>
+          </Link>
 
           <button
             className="navbar-toggler"
@@ -74,12 +74,12 @@ function HomePage() {
               secure, and reliable!
             </p>
             <div className="mt-4 d-flex flex-column flex-sm-row gap-3">
-              <a href="/userPage" className="btn btn-primary">
+              <Link to ="/userPage" className="btn btn-primary">
                 <i className="fas fa-door-open"></i> Join Meeting
-              </a>
-              <a href="/history" className="btn btn-outline-secondary">
+              </Link>
+              <Link to ="/history" className="btn btn-outline-secondary">
                 <i className="fas fa-history"></i> View History
-              </a>
+              </Link>
             </div>
           </div>
           <div className="col-lg-6 text-center">

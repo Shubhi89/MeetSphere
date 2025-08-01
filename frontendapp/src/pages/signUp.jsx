@@ -122,7 +122,7 @@ const SignUp = () => {
           )}
         </form>
         <p className="mt-3 text-center">
-          Already have an account? <a href="/signin">Sign In</a>
+          Already have an account? <Link href="/signin">Sign In</Link>
         </p>
       </div>
     </div>

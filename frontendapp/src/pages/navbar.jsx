@@ -16,9 +16,9 @@ const Navbar = () => {
       }}
     >
       <div className="container-fluid">
-        <a className="navbar-brand fw-bold text-primary fs-2" href="/">
+        <Link className="navbar-brand fw-bold text-primary fs-2" to ="/">
           Meetsphere
-        </a>
+        </Link>
 
         <button
           className="navbar-toggler"
