@@ -1,0 +1,30 @@
+.auth-bg {
+    background-image: url('./images/login.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+
+.lobby-overlay {
+    background-color: #f8f9fa;
+}
+
+@media (max-width: 767.98px) {
+    .lobby-overlay {
+        background-image: url('./images/test.jpg');
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
+    .lobby-overlay .card {
+        background-color: rgba(255, 255, 255, 0.9);
+    }
+}
