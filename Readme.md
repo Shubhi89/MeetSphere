@@ -80,8 +80,8 @@ node server.js
 ## 📷 Screenshots
 
 
-| Login Page                   | Home Page                     | Chat + Video Call        |  History       | | Landing Page |
-| ---------------------------- | ------------------------------ | --------------------------- |
+| Login Page                   | Home Page                      | Chat + Video Call           |  History       |  Landing Page     |
+| ---------------------------- | ------------------------------ | --------------------------- | -------------- | ----------------- |
 | ![](screenshots/signIn.png) | ![](screenshots/home.png) | ![](screenshots/meeting.png) | ![](screenshots/history.png) | ![](screenshots/landingPage.png)
 
 ---
