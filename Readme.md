@@ -31,31 +31,7 @@
 
 ---
 
-## 📁 Folder Structure
 
-
-MeetSphere/
-├── frontendapp/               # React frontend
-│   ├── public/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── utils/
-│   │   └── App.js
-│   └── package.json
-│
-├── backend/                # Node backend
-│   ├── controllers/
-│   ├── server.js
-│   ├── socketManager.js
-│   └── package.json
-│
-├── README.md
-└── ...
-
-
-
----
 
 ## 🛠️ Installation
 
