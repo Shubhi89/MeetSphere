@@ -80,9 +80,9 @@ node server.js
 ## 📷 Screenshots
 
 
-| Login Page                   | Video Call                     | Chat + Screen Share         |
+| Login Page                   | Home Page                     | Chat + Video Call        |  History       | | Landing Page |
 | ---------------------------- | ------------------------------ | --------------------------- |
-| ![]() | ![]() | ![]() |
+| ![](screenshots/signIn.png) | ![](screenshots/home.png) | ![](screenshots/meeting.png) | ![](screenshots/history.png) | ![](screenshots/landingPage.png)
 
 ---
 
