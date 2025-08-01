@@ -2,7 +2,7 @@ import { useContext, useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import "bootstrap/dist/css/bootstrap.min.css";
 import historyImg from "../images/history.jpg";
-import { AuthContext } from "../../contexts/authContext";
+import { AuthContext } from "../contexts/authContext";
 
 function HistoryPage() {
   const { getHistoryOfUser } = useContext(AuthContext);

@@ -3,7 +3,7 @@ import image from "../images/test.jpg";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faUser } from "@fortawesome/free-solid-svg-icons";
 import { useNavigate } from "react-router-dom";
-import { AuthContext } from "../../contexts/authContext.jsx";
+import { AuthContext } from "../contexts/authContext.jsx";
 
 export default function UserPage() {
   const [username, setUsername] = useState("");

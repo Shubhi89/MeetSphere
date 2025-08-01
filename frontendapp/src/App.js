@@ -1,15 +1,15 @@
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import LandingPage from './src/pages/landingPage.jsx';
-import SignIn from './src/pages/signIn.jsx';
-import SignUp from './src/pages/signUp.jsx';
+import LandingPage from './pages/landingPage.jsx';
+import SignIn from './pages/signIn.jsx';
+import SignUp from './pages/signUp.jsx';
 import 'bootstrap/dist/js/bootstrap.bundle.min';
 import { AuthProvider } from './contexts/authContext.jsx';
-import Navbar from './src/pages/navbar.jsx';
-import VideoMeet from './src/pages/videoMeet.jsx';
-import GuestPage from './src/pages/guestPage.jsx';
-import UserPage from './src/pages/userPage.jsx';
-import HomePage from './src/pages/homePage.jsx';
-import HistoryPage from './src/pages/historyPage.jsx';
+import Navbar from './pages/navbar.jsx';
+import VideoMeet from './pages/videoMeet.jsx';
+import GuestPage from './pages/guestPage.jsx';
+import UserPage from './pages/userPage.jsx';
+import HomePage from './pages/homePage.jsx';
+import HistoryPage from './pages/historyPage.jsx';
 
  
 function App() {

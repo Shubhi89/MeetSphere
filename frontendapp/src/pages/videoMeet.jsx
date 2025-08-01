@@ -2,7 +2,7 @@ import { useEffect, useRef, useState } from "react";
 import { io } from "socket.io-client";
 import { useLocation, useNavigate } from "react-router-dom";
 import image from "../images/videoPage.jpg";
-import servers from "../../environment";
+import servers from "../environment";
 const server_url = servers.prod;
 
 var connections = {};
