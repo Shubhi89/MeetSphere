@@ -122,12 +122,3 @@ If you found this helpful, give it a ⭐ on GitHub and share it with others!
 
 ```
 
----
-
-### ✅ Instructions:
-- Save this content as `README.md` in your root directory (`/MeetSphere`).
-- If you want help creating the screenshots, just ask.
-- Want a GitHub profile README or banner too? I can help you with that next.
-
-Let me know if you want a Hindi or professional post for LinkedIn announcing your project too!
-```
