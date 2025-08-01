@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Live Demo  : https://meetspherefrontend-6twi.onrender.com/
+## 🚀 Live Demo  : https://meetspherefrontend-6twi.onrender.com
 ---
 
 ## 📸 Features
