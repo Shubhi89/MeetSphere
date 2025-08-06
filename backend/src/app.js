@@ -4,6 +4,9 @@ import mongoose from "mongoose";
 import cors from "cors";
 import connectToSocket from "./controllers/socketManager.js";
 import userRoutes from "./routes/usersRoutes.js";
+import dotenv from 'dotenv';
+dotenv.config();
+
 
 const app = express();
 const server = createServer(app);
@@ -20,6 +23,6 @@ server.listen(app.get("port"), () => {
     console.log("app is running");
 })
 
-const mongo_url = "mongodb+srv://shubhi123:shubhi123@meetspherecluster.sshpxbc.mongodb.net/Meetsphere?retryWrites=true&w=majority&appName=MeetsphereCluster";
+const mongo_url = process.env.MONGO_URL;
 await mongoose.connect(mongo_url);
 console.log("database connected");
